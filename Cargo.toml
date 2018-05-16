@@ -1,0 +1,10 @@
+[package]
+name = "mp3-duration"
+version = "0.1.0"
+authors = ["Michael Henretty <michael.henretty@gmail.com>"]
+
+[dependencies]
+simplemad = "0.9.0"
+rayon = "1.0.1"
+
+[workspace]
